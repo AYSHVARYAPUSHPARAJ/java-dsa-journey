@@ -1,4 +1,4 @@
-public class Day6_LinearSearch {
+public class Pro6_LinearSearch {
     public static void main(String[] args) {
         int[] numbers = {5, 8, 12, 20, 25};
         int key = 12;
